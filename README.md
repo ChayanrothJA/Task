@@ -35,4 +35,9 @@
 - สีข้อความรอง: #FAD307 (Secondary Text Color)
 
 ## Scenario
+
 ![Scenario](Scenario.png)
+
+## WireFrame
+
+![WireFrame](WireFrame.png)
