@@ -1,5 +1,9 @@
 # โมบายแอปพลิเคชั่นติดตามการเดินทางของรถไฟฟ้าสายสีน้ำเงิน BlueLineTrack
 
+## 5.ออกแบบ Project ตามที่ให้โจทย์ไปบน โปรแกรม Figma
+[Figma Design Tasks](https://www.figma.com/file/Yhdd7GJlUwXJYk6gXnBcPd/UX%2FUI-Design?type=design&node-id=2127%3A13194&mode=design&t=JkknzLF8dgAvHHuF-1)
+
+
 ## ปัญหา
 
 ปัจจุบันแอปพลิเคชั่น "Bangkok MRT" ที่พัฒนาโดย BEM มีปัญหาที่เกี่ยวกับ UI ที่ไม่ครอบคลุมหรือรองรับกับความต้องการของผู้ใช้ในปัจจุบันจึงได้หยิบยกกรณี Bangkok MRT มา Redesign 
