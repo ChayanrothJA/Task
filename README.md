@@ -35,4 +35,4 @@
 - สีข้อความรอง: #FAD307 (Secondary Text Color)
 
 ## Scenario
-![Scenario](Task/Scenario.png)
+![Scenario](Scenario.png)
