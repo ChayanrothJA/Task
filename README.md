@@ -1,6 +1,8 @@
 # โมบายแอปพลิเคชั่นติดตามการเดินทางของรถไฟฟ้าสายสีน้ำเงิน BlueLineTrack
 
-## 5.ออกแบบ Project ตามที่ให้โจทย์ไปบน โปรแกรม Figma
+## 5.ออกแบบ Project ตามที่ให้โจทย์ไปบน โปรแกรม Figma 
+Device Prototype ใช้เป็น iPhone13 mini Resulution 2340×1080 pixels 
+
 [Figma Design Tasks](https://www.figma.com/file/Yhdd7GJlUwXJYk6gXnBcPd/UX%2FUI-Design?type=design&node-id=2127%3A13194&mode=design&t=JkknzLF8dgAvHHuF-1)
 
 
